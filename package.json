@@ -1,0 +1,25 @@
+{
+  "name": "gspreadreader",
+  "version": "1.0.0",
+  "description": "Google SpreadSheet reader and parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fraxken/GSpreadReader.git"
+  },
+  "keywords": [
+    "google",
+    "spreadsheet",
+    "nodejs",
+    "reader"
+  ],
+  "author": "Fraxken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fraxken/GSpreadReader/issues"
+  },
+  "homepage": "https://github.com/fraxken/GSpreadReader#readme"
+}
